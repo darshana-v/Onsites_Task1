@@ -9,3 +9,7 @@ python3 app_server.py
 Python 3 
 
 An example of the code that was run is given in the example folder.
+
+
+Status:
+Worked with basic html pages with css applied. Pages with large amounts of info was taking longer.
